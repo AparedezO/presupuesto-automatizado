@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+
 try:
     from fastapi import FastAPI, Depends
     from fastapi.middleware.cors import CORSMiddleware
